@@ -27,4 +27,6 @@ Accessible by holding either of the LT2 keys in the base layer.
 
 Accessible by holding either of the LT3 keys in the base layer. 
 
+M1 - M3 are macros which I personally use to quickly insert one of my emails in the login forms.
+
 ![image](https://github.com/user-attachments/assets/60accb7d-ff92-4ba2-9d7b-42d3778f314b)
