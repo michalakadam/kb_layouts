@@ -4,6 +4,8 @@
 
 Developed while using 3W6 - a split, columnar, 36 keys keyboard based on an open source design (https://github.com/weteor/3W6) and built by https://www.keebart.com
 
+![WhatsApp Image 2025-05-04 at 19 27 31](https://github.com/user-attachments/assets/f8df222a-8335-4d06-a44d-efae92510635)
+
 Contrary to a popular [miryoku](https://github.com/manna-harbour/miryoku) layout it has:
 - fewer layers (only 3) that are accessible from both thumbs. I find fewer layers easier to adapt to.
 - function keys ordered ascendingly. 
