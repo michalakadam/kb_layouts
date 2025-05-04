@@ -2,7 +2,7 @@
 
 ### 3x5+3 Colemak DH
 
-Developed while using 3W6 split, columnar keyboard based on an open source design (https://github.com/weteor/3W6) and built by https://www.keebart.com
+Developed while using 3W6 - a split, columnar keyboard based on an open source design (https://github.com/weteor/3W6) and built by https://www.keebart.com
 
 ##### Base layer
 
