@@ -1,5 +1,9 @@
 # Keyboard layouts
 
+## How to use one of the layouts in this repo
+
+Providing you have the keyboard that supports logical layout customization via software, download one of the `.vil` files from this repo and open it in [Vial](https://get.vial.today)
+
 ## 3x5+3 Colemak DH
 
 Developed while using 3W6 - a split, columnar, 36 keys keyboard based on an open source design (https://github.com/weteor/3W6) and built by https://www.keebart.com
